@@ -37,7 +37,16 @@ pip install -r requirements.txt
 
 ---
 
-## 6. Install MAVProxy
+## 6. Install MAVProxy(inside venv)
+### Install venv Package
+```bash
+sudo apt install python3-venv
+```
+###Example create a project folder
+```bash
+python3 -m venv venv
+```
+
 ```bash
 pip install mavproxy
 ```
