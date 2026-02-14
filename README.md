@@ -1,4 +1,4 @@
-# drone-gps-denied
+# ISRO-SDK
 Autonomous drone navigation using ROS, sensors and computer vision 
 ## Objective
 Autonomous navigation without GPS using ROS2, LiDAR, IMU, and Vision.
